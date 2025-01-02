@@ -1,2 +1,2 @@
 # HorrorTubbies
-C# creepypasta GDI trojan by pankoza
+made by pankoza
